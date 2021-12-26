@@ -1,0 +1,67 @@
+*{margin: 0;padding: 0;}
+li{list-style: none;}
+.clear{clear: both;}
+.fl{float: left;}
+.fr{float: right;}
+.wauto{width: 1200px;margin: auto;}
+.list{margin-left: 175px;}
+.list li{width:80px;height:72px;float: left;font-size: 18px;margin-right: 25px;text-align: center;line-height: 72px;
+cursor: pointer;}
+.act{background: #5696ff;color: #fefeff;}
+.logo img{vertical-align: middle;margin-top: 7px;}
+.list li:hover{background: #5696ff;color: #fefeff;}
+.login_reg{font-size: 18px;line-height: 72px;}
+/* <!-- 已解决 --> */
+.column{background: #666666;height: 40px;padding-top: 20px;}
+.icon{width: 102px;border-left: #f3f1f1 1px solid;border-right: #f3f1f1 1px solid;text-align: center;}
+.icon_r .icon{float: left;}
+.wrap_column{background: #666666;}
+/* <!-- 已解决 --> */
+.photo{width: 354px;}
+.body_wrap{background: #f3f3f3;}
+.main_body{background: #f3f3f3;}
+.guide{border-bottom:#dcdcdc 1px solid;padding-top: 55px;}
+.guide div{width: 208px;height: 61px;border: #dcdcdc 1px solid;margin-left: 64px;}
+.guide span{font-size: 26px;color: #5696ff;line-height: 61px;margin-left: 33px;}
+.guide img{margin-left: 16px;}
+.guide2{margin-top: 44px;margin-bottom: 55px;}
+.type1{margin-top: 55px;border: #dcdcdc 1px solid;background: #ffffff;}
+.type1_info{padding: 25px 28px 20px 22px;}
+.def{font-size: 20px;color: #333333;}
+.date{font-size: 12px;color: #666666;margin-top: 9px;}
+.type2{margin-top: 38px;border-bottom: #dcdcdc 1px solid;}
+.type2 img{margin-bottom: 38px;}
+.type2 .text{margin-left:20px;margin-top:25px;}
+/* .about_us部分*/
+.about_us .title{font-size: 22px;color: #333333;margin-top: 44px;}
+.about_us .content{font-size: 16px;color: #666666;line-height: 30px;margin-top: 13px;}
+.more{width: 122px;height: 50px;border: #d1d0d0 1px solid;
+font-size: 14px;color: #333333;text-align: center;line-height: 50px;margin-top: 21px;margin-bottom: 96px;}
+/* 右半部分 */
+.article{margin-left: 72px;margin-top: 55px;width: 772px;}
+.article .notes{background: #ffffff;}
+.notes .title{padding: 30px 38px;}        
+.title_cn{font-size: 22px;color: #333333;}
+.title_en{font-size: 12px;color: #999999;font-family: arial;margin-top: 5px;}
+.author_info{text-align: right;border-left: #dcdcdc 1px solid;padding: 30px 38px 20px 50px;}
+/* border不包含父级padding部分 */
+.author_info date{color: #333333;}
+.author{margin-top: 9px;}
+.author span{color: #666666;font-size: 12px;vertical-align: middle;}
+.author img{vertical-align: middle;margin-left: 8px;}
+/* img默认底对齐，span和img一行，垂直居中，两个元素都要加vertical-align: middle */
+.notes>img{padding:60px 38px 30px;border-top: #dcdcdc 1px solid;}
+.notes .text{padding: 0 38px 24px;font-size: 16px;line-height: 28px;color: #666666;}
+.continue{margin-left:38px;width: 110px;height: 50px;border: #dcdcdc 1px solid;
+font-size: 14px;color: #333333;text-align: center;line-height: 50px;margin-bottom: 46px;}
+.feedback{line-height: 50px;}
+.feedback .item{width: 117px;text-align: center;border-right: #dcdcdc 1px solid;}
+.feedback span{font-size: 16px;color: #999999;vertical-align: middle;margin-left: 15px;}
+.feedback img{vertical-align: middle;}
+.pages{margin-top: 65px;}
+.page{width: 198px;height: 59px;border:#dcdcdc 1px solid;text-align: center;line-height: 59px;}
+.page_num{margin-left: 30px;}
+.page_num span{font-size:18px;margin-right: 40px;line-height: 59px;}
+.footer{background: #5696ff;}        
+.footer p{color: #fafafc;font-size: 16px;margin-left: 270px;line-height: 35px;}
+.wrap{background: #5696ff;padding: 30px;}

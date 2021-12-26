@@ -1,0 +1,83 @@
+*{margin: 0;padding: 0;}
+li{list-style: none;}
+.clear{clear: both;}
+.fl{float: left;}
+.fr{float: right;}
+.wauto{width: 1200px;margin: auto;}
+.list{margin-left: 175px;}
+.list li{width:80px;height:72px;float: left;font-size: 18px;margin-right: 25px;text-align: center;line-height: 72px;
+cursor: pointer;}
+.act{background: #5696ff;color: #fefeff;}
+.logo img{vertical-align: middle;margin-top: 7px;}
+.list li:hover{background: #5696ff;color: #fefeff;}
+.login_reg{font-size: 18px;line-height: 72px;}
+.column{background: #666666;height: 40px;padding-top: 20px;}
+.icon{width: 102px;border-left: #f3f1f1 1px solid;border-right: #f3f1f1 1px solid;text-align: center;}
+.icon_r .icon{float: left;}
+.wrap_column{background: #666666;}
+.wrap{background: #f3f3f3;padding: 55px 0 68px 0;}
+
+.region{padding: 30px 45px;background: #666666;text-align: center;}
+.region p{font-size: 24px;color: #ffffff;}
+.line1{width: 70px;height: 1px;background: #fefefe;margin-top: 17px;margin-bottom: 17px;}
+
+
+.main_body>p{font-size: 24px;color: #333333;margin-top: 52px;margin-bottom: 25px;}
+.recommend{background: #ffffff;padding: 45px 35px;border: #dcdcdc 1px solid;}
+.base{padding: 8px;height: 258px;box-shadow: #999999 0 0 10px 2px;}
+.bg{background: url(../img/region_pic1.jpg) no-repeat center;}
+.bg2{background: url(../img/region_pic2.jpg) no-repeat center;}
+.bg3{background: url(../img/region_pic3.jpg) no-repeat center;}
+.bg4{background: url(../img/region_pic4.jpg) no-repeat center;}
+.bg5{background: url(../img/region_pic5.jpg) no-repeat center;}
+.en{margin-top: 20px;}
+.en_base{font-size: 18px;font-family: Arial;color: #fefefe;width: 130px;line-height: 30px;margin-left: 10px;}
+.cn{color: #fefefe;font-size: 20px;margin-left: 10px;}
+.tx{font-size: 20px;color: #5696ff;margin-top: 18px;}
+.download{width: 200px;height: 40px;background: #5696ff;font-size: 18px;color: #ffffff;
+border-radius: 4px;text-align: center;line-height: 40px;margin-top: 20px;}
+.photo2{margin-left: 30px;}
+
+.guide{margin-top: 50px;}
+.subtitle{font-size: 18px;color: #333333;}
+.data img{vertical-align: middle;}
+.data span{color: #666666;}
+.data{margin-top: 15px;}
+
+.collect{height: 200px; background: url(../img/region_guide.jpg);margin-top: 35px;text-align: center;position: relative;}
+.collect p{font-size: 28px;color: #fefefe;position: absolute;top: 60px;left: 35px;}
+
+.region_guide{width: 812px;}
+.headline{font-size: 24px;color: #333333;}
+.type{margin-top: 20px;}
+.type span{font-size: 18px;}
+.type .ty1{color: #333333;}
+.split{color: #999999;}
+.type .ty2{color: #5696ff;}
+
+.detail{margin-top: 20px;}
+.outside{background: #ffffff;padding: 8px;box-shadow: #999999 0 0 10px 2px;width: 166px;}
+.word{padding-top: 20px;}
+.detail_bg{background: url(../img/region_pics1.jpg) no-repeat center;}
+.detail_bg2{background: url(../img/region_pics2.jpg) no-repeat center;}
+.detail_bg3{background: url(../img/region_pics3.jpg) no-repeat center;}
+.detail_bg4{background: url(../img/region_pics4.jpg) no-repeat center;}
+.detail_bg5{background: url(../img/region_pics5.jpg) no-repeat center;}
+.detail_bg6{background: url(../img/region_pics6.jpg) no-repeat center;}
+.detail_bg7{background: url(../img/region_pics7.jpg) no-repeat center;}
+.detail_bg8{background: url(../img/region_pics8.jpg) no-repeat center;}
+.detail_bg9{background: url(../img/region_pics9.jpg) no-repeat center;}
+.detail_bg10{background: url(../img/region_pics10.jpg) no-repeat center;}
+.detail_bg11{background: url(../img/region_pics11.jpg) no-repeat center;}
+.detail_bg12{background: url(../img/region_pics12.jpg) no-repeat center;}
+.base1{height: 231px;}
+.update{color:#666666;margin-top: 5px;}
+.content1{margin-left: 25px;}
+
+.pages{margin-top: 75px;width: 812px;}
+.page{width: 198px;height: 59px;border:#dcdcdc 1px solid;font-size:18px;text-align: center;line-height: 59px;}
+.page_num{margin-left: 20px;}
+.page_num span{font-size:19px;margin-right: 30px;line-height: 59px;}
+.footer{background: #5696ff;}        
+.footer p{color: #fafafc;margin-left: 270px;line-height: 35px;}
+.foot_wrap{background: #5696ff;padding: 30px;}

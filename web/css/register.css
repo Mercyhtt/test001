@@ -1,0 +1,24 @@
+*{margin: 0;padding: 0;}
+.clear{clear: both;}
+.page{height: 640px;background: url(../img/bg_login.jpg) no-repeat center;}
+.main{width: 1180px;margin: auto;text-align: center;padding: 21px 0;}
+.login_box{width: 300px;background: #ffffff;border-radius: 8px;margin:auto;margin-top: 23px;
+box-shadow: #000000 0 0 1px 1px;padding: 40px 40px 24px 40px;position: relative;}
+.base{display: block;width: 284px;height: 40px;border-radius: 4px;border: #cecece 1px solid;padding-left: 16px;
+font-size: 14px;color: #999999;outline: none;}
+.pw{margin-top: 18px;}
+.forgotten{font-size: 12px;color: #5696ff;text-align: right;margin-top: 14px;}
+.login{width: 300px;height: 40px;background: #5696ff;border-radius: 4px;
+font-size: 18px;color: #ffffff;line-height: 40px;margin-top: 14px;}
+.line{width: 380px;height: 1px;background: #cecece;position: absolute;left: 0px;top: 249px;}
+.link{font-size: 12px;color: #999999;margin-top: 47px;text-align: left;}
+.text-tip{margin-top: 20px;}
+.item{float: left;margin-right: 50px;}
+.item p{font-size: 12px;color: #999999;}
+.reg{width: 160px;margin: auto;background: rgba(0, 0, 0, 0.2);border-radius: 8px;margin-top: 26px;}
+.reg span{font-size: 12px;line-height: 26px;}
+.text1{color: #ffffff;}
+.text2{color: #5696ff;}
+.agreement{text-align: right;font-size: 12px;margin-top: 15px;}
+.text{color: #cecece;}
+.user_agreement{color: #999999;}
